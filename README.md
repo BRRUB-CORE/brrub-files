@@ -7,7 +7,7 @@
 ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝
 ```
 
-> **B**are-metal **R**eal-mode **R**untime **U**nder **B**IOS
+> **B****R**asil **R**untime **U**nder **B**IOS
 
 > ⚠️ **Projeto em desenvolvimento ativo.** Muita coisa ainda vai mudar.
 
