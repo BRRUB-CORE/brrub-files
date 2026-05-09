@@ -7,7 +7,7 @@
 ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝
 ```
 
-> **B****R**asil **R**untime **U**nder **B**IOS
+> **BR**asil **R**untime **U**nder **B**IOS
 
 > ⚠️ **Projeto em desenvolvimento ativo.** Muita coisa ainda vai mudar.
 
