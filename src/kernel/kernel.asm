@@ -39,7 +39,7 @@ TEXT.setVideoMode:
     MOV al, 03h
     INT 10h
     MOV BYTE[BackWidth], 80
-    MOV BYTE[BackHeight], 20
+    MOV BYTE[BackHeight], 25
 RET
 
 PrintString:
