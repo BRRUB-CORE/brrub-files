@@ -44,7 +44,7 @@ RET
 
 PrintString:
     MOV ah, 09h
-    MOV bh, [pagination]
+    MOV bh, [Pagination]
     MOV bl, 40
     MOV cx, 1
     MOV al, [si]
@@ -60,7 +60,7 @@ RET
 
 MoveCursor:
     MOV ah, 02h
-    MOV bh, [pagination]
+    MOV bh, [Pagination]
     INC dl
     INT 10h
 RET
